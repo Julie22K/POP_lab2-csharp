@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\bin\Debug\net5.0\pop-lab-2.exe
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\bin\Debug\net5.0\pop-lab-2.deps.json
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\bin\Debug\net5.0\pop-lab-2.runtimeconfig.json
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\bin\Debug\net5.0\pop-lab-2.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\bin\Debug\net5.0\pop-lab-2.dll
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\bin\Debug\net5.0\pop-lab-2.pdb
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\obj\Debug\net5.0\pop-lab-2.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\obj\Debug\net5.0\pop-lab-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\obj\Debug\net5.0\pop-lab-2.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\obj\Debug\net5.0\pop-lab-2.AssemblyInfo.cs
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\obj\Debug\net5.0\pop-lab-2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\obj\Debug\net5.0\pop-lab-2.dll
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\obj\Debug\net5.0\refint\pop-lab-2.dll
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\obj\Debug\net5.0\pop-lab-2.pdb
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\obj\Debug\net5.0\pop-lab-2.genruntimeconfig.cache
+C:\Users\Dell\source\repos\pop-lab-2\pop-lab-2\obj\Debug\net5.0\ref\pop-lab-2.dll
